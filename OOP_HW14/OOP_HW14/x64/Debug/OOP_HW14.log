@@ -1,0 +1,3 @@
+﻿  OOP_HW14.cpp
+C:\Users\user\Desktop\STEP\cpp\OOP_HW14\OOP_HW14.cpp(108,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OOP_HW14.vcxproj -> C:\Users\user\Desktop\STEP\cpp\OOP_HW14\x64\Debug\OOP_HW14.exe
